@@ -1,0 +1,16 @@
+{
+  "name": "nodewindowsauthsspi",
+  "version": "1.0.0",
+  "description": "winAuth",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "VIN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-sspi": "^0.2.5"
+  }
+}
